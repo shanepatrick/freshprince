@@ -1,0 +1,17 @@
+h1 {
+	color: red;
+}
+
+html {
+	background-color: #82a43a;
+}
+
+body {
+	font: normal small-caps normal 16px/1.4 Georgia;
+}
+
+#page-wrap {
+	width: 800px;
+	margin: 0 auto;
+
+}
